@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="YOUR_LOGO_URL_HERE.png" alt="Asaan Optics Logo" width="120">
-  <br>
+ 
   👓 Asaan Optics App
 </h1>
 
@@ -9,6 +8,7 @@
   <a href="https://asaanoptics.com">Asaanoptics.com</a>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Status-Live_on_PlayStore-blue?style=for-the-badge&logo=google-play" alt="Status" href="https://play.google.com/store/apps/details?id=com.techwinesolutions.asaanoptics">
@@ -16,7 +16,8 @@
 </p>
 
 ---
-
+ <img src="https://github.com/user-attachments/assets/671915c7-ea0a-4b4f-b1a5-e32416aa854e" alt="Asaan-Optics-Logo - best-optica-shop-management-app-in-pakistan-for-optical-shop-eyewear-store-clinic-asaan-optics-app" width="" >
+  <br>
 ## 📱 About The Project
 
 **Asaan Optics** is a comprehensive, SaaS-based mobile application designed specifically for opticians, eye clinics, and eyewear retail stores in Pakistan and beyond. It eliminates the need for manual registers by digitizing the entire workflow—from customer eye prescriptions to inventory management, sales tracking, and seamless WhatsApp digital receipts.
